@@ -8,3 +8,4 @@ interface PostsApiInterface {
     fun getPosts(): Call<List<Post>>
 }
 
+//
